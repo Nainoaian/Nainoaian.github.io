@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/SHSY5Y_FUtreat_2017-06-01-142934-0000_12.jpg
+image: images/14.jpg
 title: Cell Detection AI
 permalink: projects/Cell_Detection_AI
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Machine Learning
+  - Jupyter Notebook
+  - TensorFlow
+  - Python
 summary: Using Jupyter Notebook with the Tensorflow library, I trained a neural net to detect and identify the number of healthy cells within an animation of slides. 
 ---
 

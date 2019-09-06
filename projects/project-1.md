@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Cell Detection AI
+permalink: projects/SHSY5Y_FUtreat_2017-06-01-142934-0000_3.jpg
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:

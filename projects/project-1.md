@@ -11,7 +11,7 @@ labels:
   - Jupyter Notebook
   - TensorFlow
   - Python
-summary: Using Jupyter Notebook with the Tensorflow library, I trained a neural net to detect and identify the number of healthy cells within an animation of slides. 
+summary: Using Jupyter Notebook with the Tensorflow library, I trained a neural net to detect and identify the level of healthy cells within an animation of slides. 
 ---
 
 <div class="ui small rounded images">

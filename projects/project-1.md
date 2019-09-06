@@ -5,7 +5,7 @@ image: images/SmallerLabeledImage.png
 title: Cell Detection AI
 permalink: projects/Cell_Detection_AI
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-05-15
 labels:
   - Machine Learning
   - Jupyter Notebook

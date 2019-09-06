@@ -11,10 +11,10 @@ labels:
   - Machine Learning
   - Finance
   - Stock Trends
-summary: Applying machine learning technology to the Quantopian platform, I trained a neural net on a broad range of inputs with the intention of finding seemingly unknown factors impacting the stock market and producing an output with an 80% accuracy. 
+summary: Applying machine learning technology to the Quantopian platform, I trained a neural net on a broad range of inputs with the intention of finding seemingly unknown factors impacting the stock market with 80% accuracy.  
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Quantopian is 
+Quantopian is a crowd-sourced hedge fund that provides an IPython Notebook platform for the purpose of quantitative analysis and development of trading algorithms in order to buy and sell 
 

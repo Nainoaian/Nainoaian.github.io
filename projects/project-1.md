@@ -10,7 +10,7 @@ labels:
   - Robotics
   - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: Using Jupyter Notebook and tensorflow, I designed trained a neural net to detect and identify the number of healthy cells within an animation of slides. 
 ---
 
 <div class="ui small rounded images">

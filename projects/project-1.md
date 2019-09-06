@@ -44,3 +44,9 @@ The next obstacle faced was that even after my neural net was trained on images 
 
 
 
+
+
+
+
+
+

@@ -15,7 +15,7 @@ summary: Using Jupyter Notebook with the Tensorflow library, I trained a neural 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/SHSY5Y_FUtreat_2017-05-31-164234-0010.jpg">
+  <img class="ui image" src="../images/SHSY5Y_FUtreat_2017-06-01-142934-0000_4.jpg">
   <img class="ui image" src="../images/cat.2068.jpg">
   <img class="ui image" src="../images/dog.2081.jpg">
   <img class="ui image" src="../images/SampleMatrix.JPG">

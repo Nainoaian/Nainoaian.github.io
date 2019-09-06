@@ -11,14 +11,14 @@ labels:
   - Jupyter Notebook
   - TensorFlow
   - Python
-summary: Using Jupyter Notebook with the Tensorflow library, I trained a neural net to detect and identify the level of healthy cells within an animation of slides. 
+summary: Using Jupyter Notebook with the Tensorflow library, I trained a neural net to detect and identify the level of healthy cells within a slide. 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/SHSY5Y_FUtreat_2017-05-31-164234-0010.jpg">
+  <img class="ui image" src="../images/cat.2068.jpg">
+  <img class="ui image" src="../images/dog.2081.jpg">
+  <img class="ui image" src="../images/SampleMatrix.JPG">
 </div>
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.

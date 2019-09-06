@@ -36,5 +36,11 @@ As I designed the neural net, I encountered several obstacles along the way. Som
   <img class="ui image" src="../images/Tcell9.jpg">
 </div>
 
+The next obstacle faced was that even after my neural net was trained on images of cells, when tested on random images of dogs and cats, it still identified them as cells. To remedy this, I decided to train my neural on not just images of cells, but dogs and cats as well. The reasoning behind this was based on the idea that because the neural net was only being trained on cells, it thought everything was a cell. If it was given examples as to what a dog or cat looked like, the neural net, in theory, should be able to derive a more specific picture of what cells and only cells look like. As to whether or not my theory proved true can not be said, as my neural net still identified everything as a cell after introducing cats and dogs to the pipeline. It wasn't till I switched up the syntax and corrected my label map did I finally get a neural net that provided the following result:
+
+<img class="ui image" src="../images/SampleMatrix.JPG">
+
+
+
 
 

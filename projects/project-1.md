@@ -10,7 +10,7 @@ labels:
   - Robotics
   - Arduino
   - C++
-summary: Using Jupyter Notebook and tensorflow, I designed trained a neural net to detect and identify the number of healthy cells within an animation of slides. 
+summary: Using Jupyter Notebook with the Tensorflow library, I trained a neural net to detect and identify the number of healthy cells within an animation of slides. 
 ---
 
 <div class="ui small rounded images">

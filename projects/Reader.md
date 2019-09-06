@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Backtestem.JPEG
 title: Reader
 permalink: projects/reader
 # All dates must be YYYY-MM-DD format!
@@ -15,4 +15,6 @@ summary: Applying machine learning technology to the Quantopian platform, I trai
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+
+Quantopian is 
 

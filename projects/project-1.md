@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SHSY5Y_FUtreat_2017-06-01-142934-0000_3.jpg
+image: images/SHSY5Y_FUtreat_2017-06-01-142934-0000_12.jpg
 title: Cell Detection AI
 permalink: projects/Cell_Detection_AI
 # All dates must be YYYY-MM-DD format!

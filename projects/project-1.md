@@ -32,6 +32,8 @@ As I designed the neural net, I encountered several obstacles along the way. Som
   <img class="ui image" src="../images/Tcell5.jpg">
   <img class="ui image" src="../images/Tcell6.jpg">
   <img class="ui image" src="../images/Tcell7.jpg">
+  <img class="ui image" src="../images/Tcell8.jpg">
+  <img class="ui image" src="../images/Tcell9.jpg">
 </div>
 
 

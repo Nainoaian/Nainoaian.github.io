@@ -22,8 +22,12 @@ To make this project possible, a series of checkpoints had to be implemented. By
 
 Below, I have sort of a blueprint for the JSON file's intended route:
 
-<img class="ui image" src="{{ site.baseurl }}/images/HarmonizewoReturn (1).jpeg">
-<img class="ui image" src="{{ site.baseurl }}/images/HarmonizewoReturn (2).jpeg">
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/HarmonizewoReturn (1).jpeg">
+  <img class="ui image" src="../images/HarmonizewoReturn (2).jpeg">
+</div>
+
 
 Here is the actual NodeRed flow:
 
@@ -31,7 +35,7 @@ Here is the actual NodeRed flow:
 
 And the final results are demonstrated here:
 
-<img class="ui image" src="{{ site.baseurl }}/images/PiForHello.PNG">
-<img class="ui image" src="{{ site.baseurl }}/images/BlueBurn.PNG">
-
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/PiForHello.PNG">
+  <img class="ui image" src="../images/BlueBurn.PNG">
+</div>

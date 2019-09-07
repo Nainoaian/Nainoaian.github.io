@@ -14,7 +14,7 @@ labels:
 summary: Applying machine learning technology to the Quantopian platform, I trained a neural net on a broad range of inputs with the intention of finding seemingly unknown factors impacting the stock market with 80% accuracy.  
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/completeBacktest.JPG">
 
 Quantopian is a crowd-sourced hedge fund that provides an IPython Notebook platform for the purpose of quantitative analysis and the development of trading algorithms in order to buy and sell securities. Quantopian also provides a backtesting function which allows for the observance of how well an algorithm will do when tested against previously existing stock trends. 
 

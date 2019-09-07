@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HarmonizeCentered.PNG
+image: images/FinalHarmonize.png
 title: Harmonize
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!

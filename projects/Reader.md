@@ -18,3 +18,4 @@ Quantopian is a crowd-sourced hedge fund that provides an IPython Notebook platf
 
 <img class="ui large right floated rounded image" src="../images/completeBacktest.JPG">
 
+<img class="ui image" src="../images/completeBacktest.JPG">

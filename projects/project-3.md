@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Harmonize
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-01-15
 labels:
-  - Lisp
-  - GitHub
+  - Embedded Devices
+  - Amazon Web Services
+  - Internet of Things
 summary: A text adventure game I developed for ICS 313.
 ---
 

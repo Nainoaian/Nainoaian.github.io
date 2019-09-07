@@ -31,8 +31,6 @@
     {
       "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -60,61 +58,61 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Jupyter Notebook",
+        "TensorFlow",
+        "AWS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Node Red"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.58",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Algorithm Hub Inc.",
+      "position": "Data Science Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-05-15",
+      "endDate": "2019-08-15",
+      "summary": "Design and implement data science related solutions",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Design a program that could take an image and identify the healthy cells present in the image",
+        "Test out and measure the varrying success between different types of neural nets"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Kamehameha Schools",
+      "position": "Sustainability Fellow",
+      "website": "",
+      "startDate": "2016-05-15",
+      "endDate": "2016-09-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Implement digital solutions to conserve resources",
+        "Develop new programs to be used to help structure the scheduling apparatus"
       ]
     }
   ],
-  "volunteer": [
+ /* "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -140,8 +138,8 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
-  "awards": [
+  ],*/
+/*  "awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -154,7 +152,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ],*/
   "references": [
     {
       "name": "Available upon request",

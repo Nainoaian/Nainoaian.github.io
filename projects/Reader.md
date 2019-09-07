@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Backtestem.JPG
+image: images/BackTest2.PNG
 title: Reader
 permalink: projects/reader
 # All dates must be YYYY-MM-DD format!

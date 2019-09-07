@@ -17,3 +17,7 @@ summary: Applying machine learning technology to the Quantopian platform, I trai
 Quantopian is a crowd-sourced hedge fund that provides an IPython Notebook platform for the purpose of quantitative analysis and the development of trading algorithms in order to buy and sell securities. Quantopian also provides a backtesting function which allows for the observance of how well an algorithm will do when tested against previously existing stock trends. 
 
 <img class="ui image" src="../images/completeBacktest.JPG">
+
+My idea was to approach stock forecasting with a machine learning mindset. Wanting to take what I've learned from my Cell Detection AI, but also wanting to take a step away from using purely image based datasets, I set about designing a neural net that could be trained on previously existing stock info in order to predict future stock trends. 
+
+As of now, I have covered many of the factors that are used to train a stock predicting AI. All of these are factors are financial values and ratios that are regularly used in the stock trading world. Although these factors are highly relevant to stocks and finance, my model still only return a 50% accuracy. At this current stage in the project process, I am looking for and trying to determine new factors that may have an unexpected impact on the stock market. 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/LongerImage.JPG
+image: images/LasLabeled.png
 title: Cell Detection AI
 permalink: projects/Cell_Detection_AI
 # All dates must be YYYY-MM-DD format!

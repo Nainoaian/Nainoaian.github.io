@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Praciticing for the Future
+title: I Believe in Reader
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/NodeRedFlow.PNG
 title: Harmonize
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -10,7 +10,8 @@ labels:
   - Embedded Devices
   - Amazon Web Services
   - Internet of Things
-summary: A text adventure game I developed for ICS 313.
+  - JSON
+summary: Automating home-life through voice activation. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/NodeRedFlow.PNG
+image: images/Harmonize.PNG
 title: Harmonize
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!

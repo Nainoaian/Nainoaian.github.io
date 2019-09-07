@@ -17,7 +17,7 @@ After reading AI Superpowers, I felt like I really knew how impactful this seemi
 
 As I finish up my education, the time comes for me to finish a senior project. On display in my Projects folder is my page for 'Reader.' A stock trend forecasting algorithm that will apply neural nets to making predictions. The reason why I wanted to do this project instead of something that handled image-based datasets was because I wanted to take a step away from visual data and try to apply machine learning to other areas of life. I have goals of one days applying machine learning to cyber security or software development itself and I thought this was a step in the right direction. 
 
-<img class="ui tiny left circular floated image" src="../images/software-code.jpg">
+<img class="ui image" src="../images/completeBacktest.JPG">
 
 I've just started this project, made some steps, and already put together a model, but I'm still somewhat intimidated by the scale of what I'm trying to accomplish. Even though I've already built an AI, I have lacking knowledge when it comes to finance and even less when it comes to using it to predict stocks. A lot of what I've been trying to do has mostly been encountering new terms and matching them to their definitions. In doing this, I've been able to gain a description for every factor fed into the model and have set out to make factors of my own, but I still can't shake the feeling that I'm currently treading through uncharted territory. 
 

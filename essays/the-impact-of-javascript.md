@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Impact of Jacascript
+title: The Impact of Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-09
 labels:

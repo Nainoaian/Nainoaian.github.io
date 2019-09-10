@@ -30,7 +30,7 @@ Here is the actual NodeRed flow:
 
 And the final results are demonstrated here:
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/PiForHello.PNG">
   <img class="ui image" src="../images/BlueBurn.PNG">
 </div>

@@ -11,21 +11,6 @@ labels:
   - Open Discussion
 ---
 
-Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions 
-fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights 
-you gained as a result of this experience.
 
-Looking up the right syntax for your code, seeking help from experienced programmers, securing a detailed tutorial to configure a new unfamiliar software. All tasks that I thought were as easy as posting "How to download X" to yahoo answers and waiting for a reply. It turns out that within the world of software developers or just hackers in general, this type of self-fulfiling one and done kind of request for help just does not cut it, and honestly, it's for a good reason. From what I've gathered, and this, of course, isn't true in every single case, is that hacker culture maintains a sort of gift economy. Whether out of the goodness of their hearts or because enforcing a payment per download system is extremely difficult, developers often subscribe to a system where the products that they generage will be available to any interested party as well as easily modifiable for anyone who can find areas for improvement. This creates a sort of positive feedback loop where products are released for free which are then improved or used to build other bigger and better products which are then used to create even better products and so on and so forth. As you can see, this system can lead to exciting results, which is why the assistance process should be no different. 
-
-If one require's programming related assistance, there is an etitquette that one must abide by in order to not only receive a quality answer, but to also continue to contribute to the previously described gift economy. A lot of what's considered acceptable behavior when asking for help is made up of the obvious, be professional, be couteous, use proper spelling and grammar. What may be not so obvious is the expected level of research and effort that an inquisitor must put in first before presenting their question to the internet. People looking for a quick fix, an easy to look up answer, or just want someone to do their work for them are considered lazy and not worth responding to. Their questions are viewed as unworthy to contribute to the online discussion as they do not promote an actual interest in their chosen field, but an entitlement to the free labor of those willing to volunteer their time. This discerning behavior is crucial when picking questions to take seriously as this 'online discussion' is an amazing resource for all types of programmers that may be dealing with serious problems that have only presented themselves after much effort has been put in. In maintaining this level of sophistication, the gift economy can be spread to providing assistance as all types of software developers can work towards collectively solving issues that are persistent among a number of other software developers as well as leave their discussion and solution process easily accessible to anyone who may ecounter these issues in the future. 
-
-For an example of a good question, take the following example:
-
-https://stackoverflow.com/questions/1169539/linear-regression-and-group-by-in-r
-
-
-<img class="ui image" src="../images/completeBacktest.JPG">
-
-I've just started this project, made some steps, and already put
 
 

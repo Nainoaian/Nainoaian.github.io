@@ -17,7 +17,7 @@ If one requires programming related assistance, there is an etiquette that one m
 
 For an example of a good question, take the following example:
 
-[I'm an inline-style link with title](https://stackoverflow.com/questions/1169539/linear-regression-and-group-by-in-r "Linear Regression and Group by in R")
+[Linear Regression and group by in R](https://stackoverflow.com/questions/1169539/linear-regression-and-group-by-in-r "Linear Regression and Group by in R")
 
 Notice the way this person asks their question. Not only does it show that they have done their research, but they are also very specific about what they’re trying to ask. Instead of just asking an easily solvable, broad and general question, they have presented a problem they are having to the entire developer community. Now, not only can other developers dissect and learn from this person’s issue, but if anyone else pursuing machine learning encounters this same obstacle, they can use this discussion as a potential resource. 
 Now take this question:

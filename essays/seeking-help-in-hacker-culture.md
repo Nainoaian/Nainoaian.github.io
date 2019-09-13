@@ -22,7 +22,7 @@ For an example of a good question, take the following example:
 Notice the way this person asks their question. Not only does it show that they have done their research, but they are also very specific about what they’re trying to ask. Instead of just asking an easily solvable, broad and general question, they have presented a problem they are having to the entire developer community. Now, not only can other developers dissect and learn from this person’s issue, but if anyone else pursuing machine learning encounters this same obstacle, they can use this discussion as a potential resource. 
 Now take this question:
 
- https://stackoverflow.com/questions/18955797/how-to-make-a-for-loop
- 
+ [How does for loop?](https://stackoverflow.com/questions/18955797/how-to-make-a-for-loop "How to make a for loop")
+
 Now, I’ve asked the internet this very same question in the past, which is how I found out that stack overflow is not the place for it. There are plenty of study guides or introductions to programming that could easily answer this person’s question, but instead, they decided that it wasn’t worth the effort. Even though this person isn’t asking for someone to do their homework for them, this is still considered sloppy behavior by the hacker community, which is apparent in their reaction to his question. As you can see, this question has been downvoted several times and has only been met with few responses, most of which will not help due to the asker not stating what language they were working with in the first place. This severe lack of context is the kind of thing that developers hold in utter contempt and will most of the time, return the same amount of effort that the asker put into their question in the first place.  
 

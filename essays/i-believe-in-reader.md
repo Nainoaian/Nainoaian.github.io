@@ -22,3 +22,7 @@ As I finish up my education, the time comes for me to finish a senior project. O
 I've just started this project, made some steps, and already put together a model, but I'm still somewhat intimidated by the scale of what I'm trying to accomplish. Even though I've already built an AI, I have lacking knowledge when it comes to finance and even less when it comes to using it to predict stocks. A lot of what I've been trying to do has mostly been encountering new terms and matching them to their definitions. In doing this, I've been able to gain a description for every factor fed into the model and have set out to make factors of my own, but I still can't shake the feeling that I'm currently treading through uncharted territory. 
 
 In the end, we'll see what shape my project happens to take. I'm hoping for something with more than 80% accuracy, but I'm confident I can design something worth competing. 
+
+Checking back in. The date is 9/16/2019 and I've come up with the idea to input the GDPs of relevant countries as a factor for predicting stock trends. The idea is to input countries closely tied to the American economy, China, Japan, Korea, Saudi Arabia, etc, then check it's impact on predicting American stock trends. 
+
+After observing their effect, the next step will be to input less relevant countries and see if there is any hidden trends there. 

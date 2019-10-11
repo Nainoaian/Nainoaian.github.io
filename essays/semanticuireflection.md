@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Here and Gone Tomorrow
+title: Here Today and Gone Tomorrow
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:

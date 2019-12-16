@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Books-For-Bows-PortoflioPage-Cropped.png
+image: images/BooksSquare.png
 title: Books for Bows
 permalink: projects/Cell_Detection_AI
 # All dates must be YYYY-MM-DD format!

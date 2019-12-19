@@ -29,22 +29,27 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
       ]
     },
     {
-      "name": "cyber security",
+      "name": "Cyber Security",
+      "keywords": [
+      ]
+    }
+    {
+      "name": "Web App Development",
       "keywords": [
       ]
     }
@@ -58,7 +63,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "TensorFlow"
       ]
     },
     {
@@ -70,6 +76,8 @@
         "AWS",
         "Ubuntu",
         "Git/GitHub",
+        "PyTorch",
+        "Fast.AI",
         "Node Red"
       ]
     }
@@ -87,10 +95,22 @@
     }
   ],
   "work": [
+        {
+      "company": "AI.Fish",
+      "position": "Machine Learning Intern",
+      "website": "http://www.ai.fish/",
+      "startDate": "2019-05-15",
+      "endDate": "2019-08-15",
+      "summary": "Implement a neural net to perform object detection and process a stream of visual data",
+      "highlights": [
+        "Developed a neural net to track the fish captured from the decks of fishing vessels with over 90% accuracy",
+        "Further developed other neural nets to identify the fish species and possible cause of injury"
+      ]
+    },
     {
       "company": "Algorithm Hub Inc.",
       "position": "Data Science Intern",
-      "website": "",
+      "website": "https://www.algorithmhub.com/",
       "startDate": "2019-05-15",
       "endDate": "2019-08-15",
       "summary": "Design and implement data science related solutions",

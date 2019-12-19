@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/BooksSquare.png
 title: Books for Bows
-permalink: projects/Cell_Detection_AI
+permalink: projects/Books-For-Bows
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:

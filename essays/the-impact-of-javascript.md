@@ -11,7 +11,7 @@ labels:
 
 I LOVE Javascript. I'm not very experienced in it or even that good, really, but it is an amazing language for programming. I'm a computer engineer taking a computer science class so I've been practicing in Python, C++, and C so far. Except for an introductory 126 coding problems that I rushed through in a short amount of time, the Javascript that I'm writing now is the first Javascript code I've ever written. This does not diminish my interest in the slightest. 
 
-Even though I was stuck on a lot of the coding problems, even though I ended up completely failing WOD 1, I can't help but be attracted to the convenience and flexibility of Javascript. This might be all down to personal preference, but I feel like Javascript posseses a casual feel that C just doesn't and yet, Javascript feels like it's capable of more, especially when it comes to app or website design. Again, this is all just speculation, but I really am looking forward to pursuing Javascript and seeing what it really is capable of. 
+Even though I was stuck on a lot of the coding problems, even though I ended up completely failing WOD 1, I can't help but be attracted to the convenience and flexibility of Javascript. This might be all down to personal preference, but I feel like Javascript possesses a casual feel that C just doesn't and yet, Javascript feels like it's capable of more, especially when it comes to app or website design. Again, this is all just speculation, but I really am looking forward to pursuing Javascript and seeing what it really is capable of. 
 
 <img class="ui image" src="../images/CLOCK.jpg">
 

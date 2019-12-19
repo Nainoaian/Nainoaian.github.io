@@ -26,7 +26,7 @@ Rendering this particular feature for the app did come with a host of challenges
 
 Once rendered and integrated with my fellow team mate's contributions, the site was now at full functionality. This of course allowing the user with the ability to add and edit listings:
 
-<img class="ui image" src="../images/Books-For-SearchPagesAddListing.png">
+<img class="ui image" src="../images/Books-For-AddListing.png">
 <img class="ui image" src="../images/Books-For-Edit-Listing.png">
 
 We also decided to incorporate a 'shelf' feature. This basically served as page to share extra information on the specific title selected. If the user decided to search via ISBN number, they would also be able to access a considerable amount of information that the website pulled from the Google Books API. 
